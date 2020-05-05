@@ -1,0 +1,45 @@
+﻿  k-means1.cpp
+  linkList.cpp
+  scheduling_vehicles_dynamic.cpp
+j:\vsproject\bbx_dynamic\bbx_dynamic\scheduling_vehicles_dynamic.cpp(163): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+j:\vsproject\bbx_dynamic\bbx_dynamic\scheduling_vehicles_dynamic.cpp(165): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+j:\vsproject\bbx_dynamic\bbx_dynamic\scheduling_vehicles_dynamic.cpp(235): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+j:\vsproject\bbx_dynamic\bbx_dynamic\scheduling_vehicles_dynamic.cpp(239): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+j:\vsproject\bbx_dynamic\bbx_dynamic\scheduling_vehicles_dynamic.cpp(359): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+j:\vsproject\bbx_dynamic\bbx_dynamic\scheduling_vehicles_dynamic.cpp(398): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+j:\vsproject\bbx_dynamic\bbx_dynamic\scheduling_vehicles_dynamic.cpp(428): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+j:\vsproject\bbx_dynamic\bbx_dynamic\scheduling_vehicles_dynamic.cpp(473): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+j:\vsproject\bbx_dynamic\bbx_dynamic\scheduling_vehicles_dynamic.cpp(474): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+j:\vsproject\bbx_dynamic\bbx_dynamic\scheduling_vehicles_dynamic.cpp(484): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+j:\vsproject\bbx_dynamic\bbx_dynamic\scheduling_vehicles_dynamic.cpp(504): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+j:\vsproject\bbx_dynamic\bbx_dynamic\scheduling_vehicles_dynamic.cpp(505): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+j:\vsproject\bbx_dynamic\bbx_dynamic\scheduling_vehicles_dynamic.cpp(512): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+j:\vsproject\bbx_dynamic\bbx_dynamic\scheduling_vehicles_dynamic.cpp(559): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+j:\vsproject\bbx_dynamic\bbx_dynamic\scheduling_vehicles_dynamic.cpp(577): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+j:\vsproject\bbx_dynamic\bbx_dynamic\scheduling_vehicles_dynamic.cpp(688): warning C4244: “=”: 从“__int64”转换到“int”，可能丢失数据
+j:\vsproject\bbx_dynamic\bbx_dynamic\scheduling_vehicles_dynamic.cpp(813): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+j:\vsproject\bbx_dynamic\bbx_dynamic\scheduling_vehicles_dynamic.cpp(814): warning C4244: “=”: 从“__int64”转换到“int”，可能丢失数据
+j:\vsproject\bbx_dynamic\bbx_dynamic\scheduling_vehicles_dynamic.cpp(846): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+j:\vsproject\bbx_dynamic\bbx_dynamic\scheduling_vehicles_dynamic.cpp(860): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+j:\vsproject\bbx_dynamic\bbx_dynamic\scheduling_vehicles_dynamic.cpp(862): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+j:\vsproject\bbx_dynamic\bbx_dynamic\scheduling_vehicles_dynamic.cpp(1029): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+j:\vsproject\bbx_dynamic\bbx_dynamic\scheduling_vehicles_dynamic.cpp(1230): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+j:\vsproject\bbx_dynamic\bbx_dynamic\scheduling_vehicles_dynamic.cpp(1239): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+j:\vsproject\bbx_dynamic\bbx_dynamic\scheduling_vehicles_dynamic.cpp(1247): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+j:\vsproject\bbx_dynamic\bbx_dynamic\scheduling_vehicles_dynamic.cpp(1292): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+j:\vsproject\bbx_dynamic\bbx_dynamic\scheduling_vehicles_dynamic.cpp(1318): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+j:\vsproject\bbx_dynamic\bbx_dynamic\scheduling_vehicles_dynamic.cpp(1354): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+j:\vsproject\bbx_dynamic\bbx_dynamic\scheduling_vehicles_dynamic.cpp(1512): warning C4326: “main”的返回类型应为“int”而非“void”
+j:\vsproject\bbx_dynamic\bbx_dynamic\scheduling_vehicles_dynamic.cpp(1557): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  wininetHttp.cpp
+j:\vsproject\bbx_dynamic\bbx_dynamic\wininethttp.cpp(74): warning C4267: “初始化”: 从“size_t”转换到“DWORD”，可能丢失数据
+j:\vsproject\bbx_dynamic\bbx_dynamic\wininethttp.cpp(82): warning C4267: “初始化”: 从“size_t”转换到“DWORD”，可能丢失数据
+j:\vsproject\bbx_dynamic\bbx_dynamic\wininethttp.cpp(112): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+j:\vsproject\bbx_dynamic\bbx_dynamic\wininethttp.cpp(113): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+j:\vsproject\bbx_dynamic\bbx_dynamic\wininethttp.cpp(115): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+j:\vsproject\bbx_dynamic\bbx_dynamic\wininethttp.cpp(116): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+j:\vsproject\bbx_dynamic\bbx_dynamic\wininethttp.cpp(119): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+j:\vsproject\bbx_dynamic\bbx_dynamic\wininethttp.cpp(120): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+j:\vsproject\bbx_dynamic\bbx_dynamic\wininethttp.cpp(265): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  正在生成代码...
+  bbx_dynamic.vcxproj -> J:\vsproject\bbx_dynamic\x64\Debug\bbx_dynamic.exe
